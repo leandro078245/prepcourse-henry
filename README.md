@@ -1,2 +1,1 @@
-# prepcourse-henry
-este es un repositorio de prueba
+este proyecto es una prueba de como crear un repositorio en github y clonarlo en mi escritorio y abrirlo y modificarlo desde el vs code
